@@ -1,5 +1,5 @@
 <img src="img/slide.gif" alt="tools" width="100" height="100" align="right" style="max-width:100%;"> 
-<img src="img/animation_500_kd7ngokt.gif" alt="react-native" width="200" height="200" align="right" style="max-width:100%;">
+<img src="img/animation_500_kd7ngokt.gif" alt="react-native" width="100" height="200" align="center" style="max-width:100%;">
 
 ### Hi there 👋
 
